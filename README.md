@@ -1,12 +1,46 @@
-# React + Vite
+# ✈️ Travel Booking Application (Frontend)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is the **frontend** of a Travel Booking Application built using **React, Tailwind CSS, and Vite**.  
+The project demonstrates a simple, responsive travel booking interface with modern UI components.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 🔹 **Responsive UI** with React + Tailwind CSS  
+- 🔹 **Navigation Bar** (Home, About, Bookings, Contact)  
+- 🔹 **About Page** with image carousel (Swiper.js)  
+- 🔹 **Contact Us Page** with Google Map showing Bangalore location  
+- 🔹 **Ticket Booking Page** with booking form (name, email, destination, date, seats)  
+- 🔹 **Payment Methods Section** categorized as International, Local, and Islands  
+- 🔹 **Login Modal** with blurred background effect  
+- 🔹 **Stylish Buttons** (red background → white on hover)  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+- **Frontend Framework**: [React](https://react.dev/)  
+- **Build Tool**: [Vite](https://vitejs.dev/)  
+- **Styling**: [Tailwind CSS](https://tailwindcss.com/)  
+- **Carousel**: [Swiper.js](https://swiperjs.com/react)  
+
+---
+
+## 📂 Project Structure
+
+src/
+├── components/
+│ ├── Header.jsx
+│ ├── Login.jsx
+│ ├── Booking.jsx
+│ ├── Contact.jsx
+│ ├── About.jsx
+│ └── ...
+├── images/ (static assets)
+├── App.jsx
+└── main.jsx
+
+## Clone the repsitory
+
+run this command on your terminal to clone this project :
