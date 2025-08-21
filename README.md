@@ -1,4 +1,4 @@
-# ✈️ Travel Booking Application (Frontend)
+# ✈️ Travel Booking Application
 
 This is the **frontend** of a Travel Booking Application built using **React, Tailwind CSS, and Vite**.  
 The project demonstrates a simple, responsive travel booking interface with modern UI components.
@@ -41,6 +41,45 @@ src/
 ├── App.jsx
 └── main.jsx
 
+## 📸 Screenshots
+
+### 🏠 Homepage
+![Homepage](./screenshots/homepage.png)
+
+### ℹ️ About Page (Carousel)
+![About Page](./screenshots/carousel.png)
+
+### 📍 Contact Page (Google Map)
+![Contact Page](./screenshots/contact.png)
+
+### 🎟️ Booking Page
+![Booking Page](./screenshots/booking.png)
+
+### 🔑 Login Modal
+![Login Modal](./screenshots/login.png)
+
+### Payment page
+![Payment Page](./screenshots/payment.png)
+
+
+
+
 ## Clone the repsitory
 
 run this command on your terminal to clone this project :
+git clone https://github.com/your-username/TravelBookingApp.git
+
+## Install the dependencies
+
+run this command on your terminal to install the dependencies of this project :
+npm install
+
+## Run the Project
+
+run this command on your terminal to run this project :
+npm run dev
+
+## Open the project
+
+Open the project on your browser at http://localhost:5173/
+
